@@ -91,7 +91,7 @@
         android:layout_marginEnd="16dp"
         android:autoLink="web"
         android:clickable="true"
-        android:text="https://github.com/izzahasmady/ZakatNowApp"
+        android:text="https://github.com/izzahasmady/ZakatNowMobileApp"
         android:layout_below="@+id/textView8"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="8dp" />
